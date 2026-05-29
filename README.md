@@ -22,9 +22,7 @@
 
 ### 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
-  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,idea,webstorm,linux,wordpress,docker&perline=10" alt="Tech stack" />
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">
+  <img src="https://skillicons.dev/icons?i=java,mysql,html,css,javascript,idea,webstorm,vscode,windows,linux,wordpress,docker,angular,spring,mongodb,redis,typescript,git,maven&perline=10" alt="Tech stack" />
 </p>
 
 ---
