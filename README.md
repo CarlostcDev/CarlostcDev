@@ -81,7 +81,7 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=CarlostcDev&layout=compact&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&hide_border=true&width=100%" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=CarlostcDev&theme=dark" width="100%"/>
 </p>
 
 ---
