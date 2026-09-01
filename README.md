@@ -26,6 +26,7 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 ### 💼 Work Experience
 **NTT DATA Spain** · Software Developer Intern
 📍 Alicante, Spain | 🗓️ April 2026 – June 2026
+
 ---
 
 ## 📱 Technologies
