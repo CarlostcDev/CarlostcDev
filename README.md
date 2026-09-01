@@ -60,18 +60,20 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 ### 🚀 Frameworks & Libraries
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Spring Validation](https://img.shields.io/badge/Spring_Validation-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge)
-![Lombok](https://img.shields.io/badge/Lombok-CA1F27?style=for-the-badge)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-FB7A24?style=for-the-badge&logo=jakartaee&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-4CAF50?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-CA1F27?style=for-the-badge&logo=openjdk&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-FB7A24?style=for-the-badge&logo=openjdk&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 
 ### ⌨️ IDEs
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-fd4c40?style=for-the-badge&logo=intellijidea&logoColor=white )
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-fd4c40?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-eae518?style=for-the-badge&logo=webstorm&logoColor=black)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -85,6 +87,7 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-007488?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 💻 Operating Systems
 
