@@ -15,75 +15,17 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 --- 
 
 ### 💻 Academic Background
-<table>
-<tr>
-<td width="70%" valign="top">
-
-**Higher Technician in Multiplatform Application Development (DAM)**  
-📍 IES Severo Ochoa · Alicante, Spain  
-🗓️ 2025 – Present
-
-- Developed applications using Java, focusing on object-oriented programming, data structures and software design principles.
-- Built graphical user interfaces with JavaFX and worked with application architecture and user interaction design.
-- Developed web applications using HTML, CSS and JavaScript, including synchronous and asynchronous API requests.
-- Worked with relational and non-relational databases, including MariaDB, PostgreSQL, MongoDB and Redis.
-- Used Git for version control and collaborative development workflows.
-- Designed software solutions using UML diagrams, including use case diagrams, class diagrams and other software modeling techniques.
-- Applied clean code principles, documentation practices and structured development methodologies.
-
-</td>
-</tr>
-
-<tr>
-<td width="70%" valign="top">
+**Higher Technician in Multiplatform Application Development**  
+📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2025 – Present
 
 **Technician in Microcomputer Systems and Networks**  
-📍 IES Severo Ochoa · Alicante, Spain  
-🗓️ 2023 – 2025
-
-- Configured and administered Linux and Windows servers, working with services such as DHCP, DNS, HTTP and FTP.
-- Designed and managed virtualized environments and network infrastructures using VirtualBox.
-- Performed hardware diagnostics, stress testing and performance analysis using tools such as MemTest86, Cinebench and 3DMark.
-- Monitored and analyzed network traffic with Wireshark and implemented cybersecurity measures using firewalls, antivirus solutions and vulnerability scanning tools like OpenVAS.
-- Managed operating systems, server environments, development tools and office infrastructures.
-
-</td>
-</tr>
-</table>
+📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2023 – 2025
 
 ---
 
 ### 💼 Work Experience
-<table>
-<tr>
-<td width="70%" valign="top">
-
-
-<img src="assets/nttdata.png" alt="NTT DATA" width="100px"> 
-
-**NTT DATA** · Software Developer Intern
-
-📍 Alicante, Spain  
-🗓️ April 2026 – June 2026
-
-- Developed backend applications using Java 18 with Spring Boot, implementing REST APIs, Spring Security, unit testing with JUnit and Mockito.
-- Built frontend applications using Angular with TypeScript, HTML and CSS, working with Node.js tooling and modern web development practices.
-- Managed project dependencies and builds using Maven, following structured software development workflows.
-- Worked with PostgreSQL databases, designing and managing data persistence layers.
-- Used Git for version control and collaborative development in a professional environment.
-- Integrated AI-powered tools and agents to improve development workflows and productivity.
-
-</td>
-
-</tr>
-</table>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=CarlostcDev&theme=dark" width="100%"/>
-</p>
-
+**NTT DATA Spain** · Software Developer Intern
+📍 Alicante, Spain | 🗓️ April 2026 – June 2026
 ---
 
 ## 📱 Technologies
@@ -139,21 +81,6 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
----
-
-## 🎓 Certifications & Learning
-<p align="center">
-  <a href="https://www.credly.com/badges/0de28528-7d95-408e-9754-35e09cc79416/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Network%20Technician-Cisco-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Network Technician" />
-  </a>
-  <a href="https://www.credly.com/badges/e1ed76c1-af94-480e-b1af-5d01a9c5c262/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Junior%20Cybersecurity-Cisco-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Junior Cybersecurity" />
-  </a>
-  <a href="https://www.credly.com/badges/b675df34-2e6f-47db-845a-cd9ef2a3e997/linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Network%20Support%20and%20Security-Cisco-blue?style=for-the-badge&logo=credly&logoColor=white" alt="Network Support & Security" />
-  </a>
-</p>
 
 ---
 
