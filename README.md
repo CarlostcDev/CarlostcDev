@@ -104,4 +104,4 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlostccarlos2003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carlostcdev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cartorcas/)
-[![Resume](https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://carlostcdev.github.io/sources/profile/cv/CV_Carlos_Tormo_Castano_ES.pdf)
+[![Resume](https://img.shields.io/badge/Resume-3ddc6d?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://carlostcdev.github.io/sources/profile/cv/CV_Carlos_Tormo_Castano_ES.pdf)
