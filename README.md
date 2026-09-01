@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="assets/banner-github.png" width="100%" alt="Banner">
+  <img src="assets/banner.webp" width="100%" alt="Banner Github Profile CarlostcDev">
 </p>
 
----
+<p align="center">
+  <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
+</p>
 
 ## 👤 About Me
 
@@ -12,7 +14,9 @@ I am organized, detail-oriented, and have a strong ability to learn quickly and 
 
 My goal is to continue growing professionally, expanding my knowledge, and contributing to the success of the team and the company. I am a native Spanish speaker, with an intermediate level of English, allowing me to work with technical documentation and communicate effectively in professional environments.
 
---- 
+<p align="center">
+  <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
+</p>
 
 ### 💻 Academic Background
 **Higher Technician in Multiplatform Application Development**  
@@ -21,13 +25,17 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 **Technician in Microcomputer Systems and Networks**  
 📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2023 – 2025
 
----
+<p align="center">
+  <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
+</p>
 
 ### 💼 Work Experience
 **NTT DATA Spain** · Software Developer Intern  
 📍 Alicante, Spain | 🗓️ April 2026 – June 2026
 
----
+<p align="center">
+  <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
+</p>
 
 ## 📱 Technologies
 
@@ -83,7 +91,9 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
+<p align="center">
+  <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
+</p>
 
 ## 📫 Contact
 <p align="center">
