@@ -100,14 +100,8 @@ My goal is to continue growing professionally, expanding my knowledge, and contr
 </p>
 
 ## 📫 Contact
-<p align="center">
-  <a href="https://www.linkedin.com/in/cartorcas" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:carlostccarlos2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://carlostcdev.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carlostccarlos2003@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://carlostcdev.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cartorcas/)
+[![Resume](https://img.shields.io/badge/Resume-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://carlostcdev.github.io/sources/profile/cv/CV_Carlos_Tormo_Castano_ES.pdf)
