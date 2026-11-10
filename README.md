@@ -22,7 +22,7 @@ My goal is to continue growing in software engineering, contributing to projects
 
 ### 💻 Academic Background
 **Higher Technician in Multiplatform Application Development**  
-📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2025 – Present
+📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2025 – 2027
 
 **Technician in Microcomputer Systems and Networks**  
 📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2023 – 2025
