@@ -20,7 +20,7 @@ My goal is to continue growing in software engineering, contributing to projects
   <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
 </p>
 
-### 💻 Academic Background
+### 🎓 Academic Background
 **Higher Technician in Multiplatform Application Development**  
 📍 IES Severo Ochoa · Alicante, Spain | 🗓️ 2025 – 2027
 
@@ -35,11 +35,14 @@ My goal is to continue growing in software engineering, contributing to projects
 **NTT DATA Spain** · Software Developer Intern  
 📍 Alicante, Spain | 🗓️ April 2026 – June 2026
 
+**Neuric** · IT & WordPress Developer Intern  
+📍 Elche, Spain | 🗓️ March 2025 – June 2025
+
 <p align="center">
   <img src="assets/separator.webp" width="100%" alt="Separator Github Profile CarlostcDev">
 </p>
 
-### 💻 Languages
+### 🌐 Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
